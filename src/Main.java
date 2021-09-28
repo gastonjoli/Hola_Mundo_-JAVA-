@@ -10,7 +10,7 @@ public class Main {
 
         String  favorito = "Me gusta escribir codigo en python y java";
 
-        String practica = "Estoy practicando como subir a GIT desde intellig";
+        String practica = "Estoy practicando como subir a GITHUB desde intellig";
 
         System.out.println( holayminombre + " " + "y tengo: "+ edad +" "+ "años de edad");
 
